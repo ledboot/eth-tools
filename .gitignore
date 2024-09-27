@@ -1,0 +1,6 @@
+.vscode
+.DS_Store
+account.txt
+pk.txt
+.env
+node_modules/
